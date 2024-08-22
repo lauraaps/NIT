@@ -1,0 +1,4 @@
+start server:
+php artisan serve
+tem que estar dentro do folder app
+cd .\app
